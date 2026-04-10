@@ -124,4 +124,4 @@ This project demonstrates practical system-level understanding of LLMs, includin
 
 
 ### Note: 
-If the notebook preview does not render on GitHub, please download locally.
+If the `.ipynb` notebook does not render properly on GitHub, please download and view it locally.
