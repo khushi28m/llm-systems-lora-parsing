@@ -121,3 +121,7 @@ External Help:
 ## Conclusion
 
 This project demonstrates practical system-level understanding of LLMs, including architecture parsing, efficient fine-tuning, and model behavior analysis. It highlights both the potential and limitations of lightweight fine-tuning approaches and emphasizes the importance of thoughtful design, evaluation, and scalability considerations.
+
+
+### Note: 
+If the notebook preview does not render on GitHub, please download locally.
